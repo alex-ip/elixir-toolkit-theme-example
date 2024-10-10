@@ -8,6 +8,6 @@ This page serves as an example page.
 
 blah blah blah
 
-# Heading 2
+## Heading 2
 
 more blah
